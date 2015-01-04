@@ -15,7 +15,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	button5.click = function button5_click (event)// @startlock
 	{// @endlock
-		importInstruments;
+		ds.importInstruments;
 	};// @lock
 
 // @region eventManager// @startlock
