@@ -1,1 +1,1 @@
-﻿model.VC4Path.entityMethods.createTimestamp = function() {	VC4Path.timestamp = new Date();};
+﻿model.VC4Path.entityMethods.createTimestamp = function() {	return VC4Path.timestamp = new Date();};
