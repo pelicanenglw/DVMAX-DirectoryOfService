@@ -1,0 +1,1 @@
+﻿var allAssays = ds.Assays.all();allAssays;var rawData = ds.IVLSMasterAssays.distinctValues('assayTypeCode');rawData.length;//var rawPanels = ds.Panels.all();//rawPanels.length;

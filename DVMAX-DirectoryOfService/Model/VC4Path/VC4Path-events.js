@@ -1,0 +1,1 @@
+﻿model.VC4Path.timestamp.events.onVaidate = function() {	model.VC4Path.entityMethods.createTimestamp;};

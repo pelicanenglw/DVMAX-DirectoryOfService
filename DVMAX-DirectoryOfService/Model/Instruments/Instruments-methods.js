@@ -1,0 +1,1 @@
+model.Instruments.methods.InstumentsAssays = function() {	};model.Instruments.methods.InstrumentList = function() {	var allInstruments = ds.Instruments.all();	return allInstruments;};

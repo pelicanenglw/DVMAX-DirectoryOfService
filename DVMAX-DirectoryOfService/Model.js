@@ -1,0 +1,1 @@
+include("./Model/Instruments/Instruments-methods.js");include("./Model/VC4Path/VC4Path-methods.js");include("./Model/VC4Path/VC4Path-events.js");
