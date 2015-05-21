@@ -1,6 +1,6 @@
 
 
-model.ClinicData.date.onSet = function() {
-	// Add your code here;
-	ClinicData.date = new Date();
-};
+//model.ClinicData.date.onSet = function() {
+//	//var myValue = value;
+//	var myDate = new Date();
+//};
