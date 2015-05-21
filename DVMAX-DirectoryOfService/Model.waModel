@@ -163,8 +163,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 1845,
-						"Y": 1198
+						"X": 1902,
+						"Y": 1430
 					}
 				}
 			},
@@ -174,8 +174,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 1813,
-						"Y": 1531
+						"X": 1865,
+						"Y": 1082
 					}
 				}
 			},
@@ -189,12 +189,22 @@
 						"Y": 1255
 					}
 				}
+			},
+			"Reports": {
+				"panelColor": "#996699",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 1836,
+						"Y": 1725
+					}
+				}
 			}
 		},
 		"model": {
 			"scriptMode": "manual",
-			"workspaceLeft": 706,
-			"workspaceTop": 818,
+			"workspaceLeft": 1365,
+			"workspaceTop": 968,
 			"lastScriptLocation": {
 				"IVLSMasterAssays": {
 					"computed": "IVLSMasterAssays/IVLSMasterAssays-events.js"
@@ -215,6 +225,9 @@
 				},
 				"ClinicLocation": {
 					"computed": "ClinicLocation/ClinicLocation-events.js"
+				},
+				"ClinicData": {
+					"computed": "ClinicData/ClinicData-events.js"
 				}
 			},
 			"relationCurve": {
@@ -370,6 +383,13 @@
 					"scope": "public",
 					"type": "ClinicMembers",
 					"path": "ClinicMembers"
+				},
+				{
+					"name": "date",
+					"scope": "public",
+					"type": "date",
+					"kind": "calculated",
+					"scriptKind": "javascript"
 				}
 			]
 		},
@@ -436,39 +456,39 @@
 				},
 				{
 					"name": "addressLine2",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "city",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "proviince",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "postalCode",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "country",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"kind": "storage"
+					"type": "string"
 				},
 				{
 					"name": "fullAddress",
+					"kind": "calculated",
 					"scope": "public",
 					"type": "string",
-					"kind": "calculated",
 					"scriptKind": "javascript"
 				}
 			]
@@ -531,6 +551,14 @@
 					"type": "ClinicDataCollection",
 					"reversePath": true,
 					"path": "clinicMembers"
+				},
+				{
+					"name": "ClinicReports",
+					"scope": "public",
+					"reversePath": true,
+					"path": "clinicMembers",
+					"type": "ReportsCollection",
+					"kind": "relatedEntities"
 				}
 			]
 		},
@@ -1036,6 +1064,27 @@
 					"scope": "publicOnServer",
 					"from": "$mainModel.VC4Path.entityMethods.createTimestamp",
 					"userDefined": true
+				}
+			]
+		},
+		{
+			"collectionName": "ReportsCollection",
+			"className": "Reports",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"type": "long",
+					"autosequence": "true",
+					"unique": "true",
+					"primKey": "true"
+				},
+				{
+					"name": "clinicMembers",
+					"kind": "relatedEntity",
+					"type": "ClinicMembers",
+					"path": "ClinicMembers",
+					"scope": "public"
 				}
 			]
 		}
