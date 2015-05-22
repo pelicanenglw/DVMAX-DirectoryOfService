@@ -9,8 +9,8 @@ model.Reports.events.init = function(event) {
 model.Reports.events.validate = function(event) {
 	// Add your code here;
 	
-	if(this.version != ClinicData.version){
-		ClinicData.version = this.version;
+	if(this.version != ds.ClinicData.version){
+		ds.ClinicData.version = this.version;
 	};
 	
 };
