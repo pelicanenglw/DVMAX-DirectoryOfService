@@ -3,6 +3,15 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#dataGrid3 {
+	z-index: 5;
+	width: 488px;
+	height: 339px;
+	top: 434px;
+	left: 65px;
+	position: absolute;
+}
+
 #dataGrid2 {
 	z-index: 4;
 	width: 583px;
