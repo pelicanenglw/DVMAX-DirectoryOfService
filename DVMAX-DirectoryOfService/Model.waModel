@@ -252,8 +252,8 @@
 					"isOpen" : "true",
 					"position" : 
 					{
-						"X" : 1836,
-						"Y" : 1725
+						"X" : 1957,
+						"Y" : 1711
 					}
 				}
 			}
@@ -294,6 +294,10 @@
 				"ClinicData" : 
 				{
 					"computed" : "ClinicData/ClinicData-events.js"
+				},
+				"Reports" : 
+				{
+					"method" : "Reports/Reports-methods.js"
 				}
 			},
 			"relationCurve" : 
@@ -600,14 +604,7 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript",
-					"onSet" : 
-					[
-						{
-							"from" : "$mainModel.ClinicLocation.fullAddress.onSet",
-							"userDefined" : true
-						}
-					]
+					"scriptKind" : "javascript"
 				}
 			],
 			"key" : 
@@ -1145,6 +1142,16 @@
 					"scope" : "public",
 					"type" : "ClinicMembers",
 					"path" : "ClinicMembers"
+				}
+			],
+			"methods" : 
+			[
+				{
+					"name" : "newEntity",
+					"applyTo" : "entity",
+					"scope" : "publicOnServer",
+					"from" : "$mainModel.Reports.entityMethods.newEntity",
+					"userDefined" : true
 				}
 			],
 			"key" : 

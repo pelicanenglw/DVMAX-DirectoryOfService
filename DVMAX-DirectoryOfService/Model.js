@@ -1,1 +1,1 @@
-include("./Model/Instruments/Instruments-methods.js");include("./Model/VC4Path/VC4Path-methods.js");include("./Model/VC4Path/VC4Path-events.js");
+include("./Model/Instruments/Instruments-methods.js");include("./Model/VC4Path/VC4Path-methods.js");include("./Model/VC4Path/VC4Path-events.js");include("./Model/ClinicLocation/ClinicLocation-events.js");include("./Model/ClinicData/ClinicData-events.js");include("./Model/Reports/Reports-methods.js");
