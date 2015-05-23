@@ -211,7 +211,7 @@
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 1924,
+						"X" : 1880,
 						"Y" : 1410
 					}
 				}
@@ -253,8 +253,8 @@
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 2347,
-						"Y" : 1527
+						"X" : 2301,
+						"Y" : 1533
 					}
 				}
 			}

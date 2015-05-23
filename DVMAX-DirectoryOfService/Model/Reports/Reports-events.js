@@ -1,7 +1,10 @@
 
 
 model.Reports.events.init = function(event) {
+	
+	if(this.date == null){
 	this.date = new Date();
+	};
 	//this.version = '';
 };
 
