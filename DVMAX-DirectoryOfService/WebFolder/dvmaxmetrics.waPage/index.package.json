@@ -32,6 +32,18 @@
 			"type": "widget"
 		},
 		{
+			"id": "Widget/textField",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/button",
+			"type": "widget"
+		},
+		{
 			"id": "default",
 			"type": "theme"
 		},
@@ -44,6 +56,16 @@
 			"id": "application.css",
 			"path": "WEBFOLDER",
 			"type": "style"
+		},
+		{
+			"id": "dvmaxmetrics.waPage/styles/custom.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "dvmaxmetrics.waPage/scripts/index.js",
+			"path": "WEBFOLDER",
+			"type": "script"
 		}
 	]
 }

@@ -1,1133 +1,1333 @@
+
 {
-	"toJSON": true,
-	"extraProperties": {
-		"version": "2",
-		"classes": {
-			"IVLSMasterAssays": {
-				"panelColor": "#C4BD97",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 93,
-						"Y": 22
+	"toJSON" : true,
+	"extraProperties" : 
+	{
+		"version" : "2",
+		"classes" : 
+		{
+			"IVLSMasterAssays" : 
+			{
+				"panelColor" : "#C4BD97",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 93,
+						"Y" : 22
 					}
 				}
 			},
-			"Panels": {
-				"panelColor": "#E5B9B7",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 381,
-						"Y": 414
+			"Panels" : 
+			{
+				"panelColor" : "#E5B9B7",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 381,
+						"Y" : 414
 					}
 				}
 			},
-			"Instruments": {
-				"panelColor": "#7F7F7F",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 789,
-						"Y": 104
+			"Instruments" : 
+			{
+				"panelColor" : "#7F7F7F",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 789,
+						"Y" : 104
 					}
 				}
 			},
-			"Assays": {
-				"panelColor": "#E5B9B7",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 1124,
-						"Y": 459
+			"Assays" : 
+			{
+				"panelColor" : "#E5B9B7",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1124,
+						"Y" : 459
 					}
 				}
 			},
-			"IVLSMasterPanels": {
-				"panelColor": "#C4BD97",
-				"panel": {
-					"pathVisible": true,
-					"isOpen": "true",
-					"position": {
-						"X": 115,
-						"Y": 515
+			"IVLSMasterPanels" : 
+			{
+				"panelColor" : "#C4BD97",
+				"panel" : 
+				{
+					"pathVisible" : true,
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 115,
+						"Y" : 515
 					}
 				}
 			},
-			"PanelAssays": {
-				"panelColor": "#CCC1D9",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 834,
-						"Y": 613
+			"PanelAssays" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 834,
+						"Y" : 613
 					}
 				}
 			},
-			"Species": {
-				"panelColor": "#C3D69B",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 406,
-						"Y": 946
+			"Species" : 
+			{
+				"panelColor" : "#C3D69B",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 406,
+						"Y" : 946
 					}
 				}
 			},
-			"LabCodeMapping": {
-				"panelColor": "#8DB3E2",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 108,
-						"Y": 730
+			"LabCodeMapping" : 
+			{
+				"panelColor" : "#8DB3E2",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 108,
+						"Y" : 730
 					}
 				}
 			},
-			"SpeciesCodeMapping": {
-				"panelColor": "#CCC1D9",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 107,
-						"Y": 941
+			"SpeciesCodeMapping" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 107,
+						"Y" : 941
 					}
 				}
 			},
-			"BreedCodeMapping": {
-				"panelColor": "#996699",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 107,
-						"Y": 1152
+			"BreedCodeMapping" : 
+			{
+				"panelColor" : "#996699",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 107,
+						"Y" : 1152
 					}
 				}
 			},
-			"Breeds": {
-				"panelColor": "#CCC1D9",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 409,
-						"Y": 1166
+			"Breeds" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 409,
+						"Y" : 1166
 					}
 				}
 			},
-			"VC4Path": {
-				"panelColor": "#CCC1D9",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 817,
-						"Y": 932
+			"VC4Path" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 817,
+						"Y" : 932
 					}
 				}
 			},
-			"DVMAXJSON": {
-				"panelColor": "#7F7F7F",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 1122,
-						"Y": 923
+			"DVMAXJSON" : 
+			{
+				"panelColor" : "#7F7F7F",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1122,
+						"Y" : 923
 					}
 				}
 			},
-			"ClinicGroup": {
-				"panelColor": "#B7DDE8",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 830,
-						"Y": 1155
+			"ClinicGroup" : 
+			{
+				"panelColor" : "#B7DDE8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 830,
+						"Y" : 1155
 					}
 				}
 			},
-			"ClinicData": {
-				"panelColor": "#B7DDE8",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 1825,
-						"Y": 1370
+			"ClinicData" : 
+			{
+				"panelColor" : "#B7DDE8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1825,
+						"Y" : 1370
 					}
 				}
 			},
-			"ClinicLocation": {
-				"panelColor": "#76923C",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 2348,
-						"Y": 1599
+			"ClinicLocation" : 
+			{
+				"panelColor" : "#76923C",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 2348,
+						"Y" : 1599
 					}
 				}
 			},
-			"ClinicMembers": {
-				"panelColor": "#eee",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 1378,
-						"Y": 1255
+			"ClinicMembers" : 
+			{
+				"panelColor" : "#eee",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 1378,
+						"Y" : 1255
 					}
 				}
 			},
-			"Reports": {
-				"panelColor": "#996699",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": true,
-					"position": {
-						"X": 2312,
-						"Y": 1004
+			"Reports" : 
+			{
+				"panelColor" : "#996699",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 2312,
+						"Y" : 1004
 					}
 				}
 			}
 		},
-		"model": {
-			"scriptMode": "manual",
-			"workspaceLeft": 1365,
-			"workspaceTop": 882,
-			"lastScriptLocation": {
-				"IVLSMasterAssays": {
-					"computed": "IVLSMasterAssays/IVLSMasterAssays-events.js"
+		"model" : 
+		{
+			"scriptMode" : "manual",
+			"workspaceLeft" : 1365,
+			"workspaceTop" : 882,
+			"lastScriptLocation" : 
+			{
+				"IVLSMasterAssays" : 
+				{
+					"computed" : "IVLSMasterAssays/IVLSMasterAssays-events.js"
 				},
-				"Instruments": {
-					"method": "Instruments/Instruments-methods.js",
-					"computed": "Instruments/Instruments-events.js"
+				"Instruments" : 
+				{
+					"method" : "Instruments/Instruments-methods.js",
+					"computed" : "Instruments/Instruments-events.js"
 				},
-				"Panels": {
-					"computed": "Panels/Panels-events.js"
+				"Panels" : 
+				{
+					"computed" : "Panels/Panels-events.js"
 				},
-				"Assays": {
-					"computed": "Assays/Assays-events.js"
+				"Assays" : 
+				{
+					"computed" : "Assays/Assays-events.js"
 				},
-				"VC4Path": {
-					"method": "VC4Path/VC4Path-methods.js",
-					"events": "VC4Path/VC4Path-events.js"
+				"VC4Path" : 
+				{
+					"method" : "VC4Path/VC4Path-methods.js",
+					"events" : "VC4Path/VC4Path-events.js"
 				},
-				"ClinicLocation": {
-					"computed": "ClinicLocation/ClinicLocation-events.js"
+				"ClinicLocation" : 
+				{
+					"computed" : "ClinicLocation/ClinicLocation-events.js"
 				},
-				"ClinicData": {
-					"computed": "ClinicData/ClinicData-events.js"
+				"ClinicData" : 
+				{
+					"computed" : "ClinicData/ClinicData-events.js"
 				},
-				"Reports": {
-					"method": "Reports/Reports-methods.js",
-					"events": "Reports/Reports-events.js"
+				"Reports" : 
+				{
+					"method" : "Reports/Reports-methods.js",
+					"events" : "Reports/Reports-events.js"
 				}
 			},
-			"relationCurve": {
-				"run": true,
-				"mode": 1
+			"relationCurve" : 
+			{
+				"run" : true,
+				"mode" : 1
 			}
 		}
 	},
-	"dataClasses": [
+	"dataClasses" : 
+	[
 		{
-			"name": "Assays",
-			"className": "Assays",
-			"collectionName": "AssaysCollection",
-			"scope": "public",
-			"attributes": [
+			"name" : "Assays",
+			"className" : "Assays",
+			"collectionName" : "AssaysCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
 				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
 				},
 				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "code",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "code",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "instrument",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "Instruments",
-					"path": "Instruments"
+					"name" : "instrument",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Instruments",
+					"path" : "Instruments"
 				},
 				{
-					"name": "timeStamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "BreedCodeMapping",
-			"className": "BreedCodeMapping",
-			"collectionName": "BreedCodeMappingCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "labBreeds",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "dvmaxBreedCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "Breeds",
-			"className": "Breeds",
-			"collectionName": "BreedsCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "ClinicData",
-			"className": "ClinicData",
-			"collectionName": "ClinicDataCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "date",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				},
-				{
-					"name": "version",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "clinicReports",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "ReportsCollection",
-					"reversePath": true,
-					"path": "clinicData"
-				},
-				{
-					"name": "clinicName",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "DVMAXID",
-					"kind": "storage",
-					"scope": "public",
-					"type": "long"
-				},
-				{
-					"name": "clinicLocationData",
-					"scope": "public",
-					"reversePath": true,
-					"path": "clinicData",
-					"type": "ClinicLocationCollection",
-					"kind": "relatedEntities"
-				}
-			]
-		},
-		{
-			"name": "ClinicGroup",
-			"className": "ClinicGroup",
-			"collectionName": "ClinicGroupCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "GroupID",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "cinicMembersCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "ClinicMembersCollection",
-					"reversePath": true,
-					"path": "group"
-				}
-			]
-		},
-		{
-			"name": "ClinicLocation",
-			"className": "ClinicLocation",
-			"collectionName": "ClinicLocationCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "addressLine1",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "addressLine2",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "city",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "proviince",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "postalCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "country",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "fullAddress",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "clinicData",
-					"kind": "relatedEntity",
-					"type": "ClinicData",
-					"path": "ClinicData",
-					"scope": "public"
+					"name" : "timeStamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
 				}
 			],
-			"events": [
+			"key" : 
+			[
 				{
-					"kind": "save",
-					"from": "$mainModel.ClinicLocation.events.save",
-					"userDefined": true
+					"name" : "ID"
 				}
 			]
 		},
 		{
-			"name": "ClinicMembers",
-			"className": "ClinicMembers",
-			"collectionName": "ClinicMembersCollection",
-			"matchTable": "CinicMembers",
-			"scope": "public",
-			"attributes": [
+			"name" : "BreedCodeMapping",
+			"className" : "BreedCodeMapping",
+			"collectionName" : "BreedCodeMappingCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
 				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "uuid",
-					"indexKind": "btree",
-					"primKey": true
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
 				},
 				{
-					"name": "ipAddress",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "labBreeds",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "group",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "ClinicGroup",
-					"path": "ClinicGroup"
+					"name" : "dvmaxBreedCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "DVMAXID",
-					"kind": "storage",
-					"scope": "public",
-					"type": "long",
-					"indexKind": "btree"
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "ClinicName",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				}
-			]
-		},
-		{
-			"name": "DVMAXJSON",
-			"className": "DVMAXJSON",
-			"collectionName": "DVMAXJSONCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "key",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "script",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				}
-			]
-		},
-		{
-			"name": "Instruments",
-			"className": "Instruments",
-			"collectionName": "InstrumentsCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "panelsCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "PanelsCollection",
-					"reversePath": true,
-					"path": "instrument"
-				},
-				{
-					"name": "assaysCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "AssaysCollection",
-					"reversePath": true,
-					"path": "instrument"
-				},
-				{
-					"name": "timeStamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
 				}
 			],
-			"methods": [
+			"key" : 
+			[
 				{
-					"name": "InstrumentList",
-					"applyTo": "dataClass",
-					"scope": "publicOnServer",
-					"from": "$mainModel.Instruments.methods.InstrumentList",
-					"userDefined": true
-				},
-				{
-					"name": "InstumentsAssays",
-					"applyTo": "dataClass",
-					"scope": "publicOnServer",
-					"from": "$mainModel.Instruments.methods.InstumentsAssays",
-					"userDefined": true
+					"name" : "ID"
 				}
 			]
 		},
 		{
-			"name": "IVLSMasterAssays",
-			"className": "IVLSMasterAssays",
-			"collectionName": "IVLSMasterAssaysCollection",
-			"scope": "public",
-			"attributes": [
+			"name" : "Breeds",
+			"className" : "Breeds",
+			"collectionName" : "BreedsCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
 				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
 				},
 				{
-					"name": "device",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "assayName",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "assayType",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "assayTypeCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "species",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "unitsSystem",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "units",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "dblConversionFactor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "nPrecision",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "veryLow",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "low",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "high",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "veryHigh",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timeStamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "IVLSMasterPanels",
-			"className": "IVLSMasterPanels",
-			"collectionName": "IVLSMasterPanelsCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "instrument",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "panel",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "assay",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timeStamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "LabCodeMapping",
-			"className": "LabCodeMapping",
-			"collectionName": "LabCodeMappingCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "labCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "dvmaxBillCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "PanelAssays",
-			"className": "PanelAssays",
-			"collectionName": "PanelAssaysCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "assay",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				},
-				{
-					"name": "panel",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "Panels",
-					"path": "Panels"
-				}
-			]
-		},
-		{
-			"name": "Panels",
-			"className": "Panels",
-			"collectionName": "PanelsCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "instrument",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "Instruments",
-					"path": "Instruments"
-				},
-				{
-					"name": "timeStamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				},
-				{
-					"name": "panelAssaysCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "PanelAssaysCollection",
-					"reversePath": true,
-					"path": "panel"
-				}
-			]
-		},
-		{
-			"name": "Reports",
-			"className": "Reports",
-			"collectionName": "ReportsCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "date",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				},
-				{
-					"name": "version",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "clinicData",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "ClinicData",
-					"path": "ClinicData"
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
 				}
 			],
-			"events": [
+			"key" : 
+			[
 				{
-					"kind": "init",
-					"from": "$mainModel.Reports.events.init",
-					"userDefined": true
-				},
-				{
-					"kind": "validate",
-					"from": "$mainModel.Reports.events.validate",
-					"userDefined": true
+					"name" : "ID"
 				}
 			]
 		},
 		{
-			"name": "Species",
-			"className": "Species",
-			"collectionName": "SpeciesCollection",
-			"scope": "public",
-			"attributes": [
+			"name" : "ClinicData",
+			"className" : "ClinicData",
+			"collectionName" : "ClinicDataCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
 				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
 				},
 				{
-					"name": "name",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "date",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
 				},
 				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "version",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "SpeciesCodeMapping",
-			"className": "SpeciesCodeMapping",
-			"collectionName": "SpeciesCodeMappingCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
+					"name" : "clinicReports",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "ReportsCollection",
+					"reversePath" : true,
+					"path" : "clinicData"
 				},
 				{
-					"name": "labSpecies",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "clinicName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
-					"name": "dvmaxSpecieCode",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
+					"name" : "DVMAXID",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "long"
 				},
 				{
-					"name": "vendor",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
-				}
-			]
-		},
-		{
-			"name": "VC4Path",
-			"className": "VC4Path",
-			"collectionName": "VC4PathCollection",
-			"scope": "public",
-			"attributes": [
-				{
-					"name": "ID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"autosequence": true,
-					"type": "long",
-					"indexKind": "btree",
-					"primKey": true
-				},
-				{
-					"name": "key",
-					"kind": "storage",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "path",
-					"kind": "storage",
-					"matchColumn": "value",
-					"scope": "public",
-					"type": "string"
-				},
-				{
-					"name": "timestamp",
-					"kind": "storage",
-					"scope": "public",
-					"type": "date",
-					"simpleDate": false
+					"name" : "clinicLocationData",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "ClinicLocationCollection",
+					"reversePath" : true,
+					"path" : "clinicData"
 				}
 			],
-			"methods": [
+			"key" : 
+			[
 				{
-					"name": "createTimestamp",
-					"applyTo": "entity",
-					"scope": "publicOnServer",
-					"from": "$mainModel.VC4Path.entityMethods.createTimestamp",
-					"userDefined": true
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "ClinicGroup",
+			"className" : "ClinicGroup",
+			"collectionName" : "ClinicGroupCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "GroupID",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "cinicMembersCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "ClinicMembersCollection",
+					"reversePath" : true,
+					"path" : "group"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "ClinicLocation",
+			"className" : "ClinicLocation",
+			"collectionName" : "ClinicLocationCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "addressLine1",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "addressLine2",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "city",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "proviince",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "postalCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "country",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "fullAddress",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "clinicData",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "ClinicData",
+					"path" : "ClinicData"
+				}
+			],
+			"events" : 
+			[
+				{
+					"kind" : "save",
+					"from" : "$mainModel.ClinicLocation.events.save",
+					"userDefined" : true
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "ClinicMembers",
+			"className" : "ClinicMembers",
+			"collectionName" : "ClinicMembersCollection",
+			"matchTable" : "CinicMembers",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "uuid",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "ipAddress",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "group",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "ClinicGroup",
+					"path" : "ClinicGroup"
+				},
+				{
+					"name" : "DVMAXID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "ClinicName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "DVMAXJSON",
+			"className" : "DVMAXJSON",
+			"collectionName" : "DVMAXJSONCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "key",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "script",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Instruments",
+			"className" : "Instruments",
+			"collectionName" : "InstrumentsCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "panelsCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "PanelsCollection",
+					"reversePath" : true,
+					"path" : "instrument"
+				},
+				{
+					"name" : "assaysCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "AssaysCollection",
+					"reversePath" : true,
+					"path" : "instrument"
+				},
+				{
+					"name" : "timeStamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"methods" : 
+			[
+				{
+					"name" : "InstrumentList",
+					"applyTo" : "dataClass",
+					"scope" : "publicOnServer",
+					"from" : "$mainModel.Instruments.methods.InstrumentList",
+					"userDefined" : true
+				},
+				{
+					"name" : "InstumentsAssays",
+					"applyTo" : "dataClass",
+					"scope" : "publicOnServer",
+					"from" : "$mainModel.Instruments.methods.InstumentsAssays",
+					"userDefined" : true
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "IVLSMasterAssays",
+			"className" : "IVLSMasterAssays",
+			"collectionName" : "IVLSMasterAssaysCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "device",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "assayName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "assayType",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "assayTypeCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "species",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "unitsSystem",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "units",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "dblConversionFactor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "nPrecision",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "veryLow",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "low",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "high",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "veryHigh",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timeStamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "IVLSMasterPanels",
+			"className" : "IVLSMasterPanels",
+			"collectionName" : "IVLSMasterPanelsCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "instrument",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "panel",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "assay",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timeStamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "LabCodeMapping",
+			"className" : "LabCodeMapping",
+			"collectionName" : "LabCodeMappingCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "labCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "dvmaxBillCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "PanelAssays",
+			"className" : "PanelAssays",
+			"collectionName" : "PanelAssaysCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "assay",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				},
+				{
+					"name" : "panel",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Panels",
+					"path" : "Panels"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Panels",
+			"className" : "Panels",
+			"collectionName" : "PanelsCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "instrument",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Instruments",
+					"path" : "Instruments"
+				},
+				{
+					"name" : "timeStamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				},
+				{
+					"name" : "panelAssaysCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "PanelAssaysCollection",
+					"reversePath" : true,
+					"path" : "panel"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Reports",
+			"className" : "Reports",
+			"collectionName" : "ReportsCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "date",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				},
+				{
+					"name" : "version",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "clinicData",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "ClinicData",
+					"path" : "ClinicData"
+				}
+			],
+			"events" : 
+			[
+				{
+					"kind" : "init",
+					"from" : "$mainModel.Reports.events.init",
+					"userDefined" : true
+				},
+				{
+					"kind" : "validate",
+					"from" : "$mainModel.Reports.events.validate",
+					"userDefined" : true
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Species",
+			"className" : "Species",
+			"collectionName" : "SpeciesCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "SpeciesCodeMapping",
+			"className" : "SpeciesCodeMapping",
+			"collectionName" : "SpeciesCodeMappingCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "labSpecies",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "dvmaxSpecieCode",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "vendor",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "VC4Path",
+			"className" : "VC4Path",
+			"collectionName" : "VC4PathCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "key",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "path",
+					"kind" : "storage",
+					"matchColumn" : "value",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "timestamp",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"methods" : 
+			[
+				{
+					"name" : "createTimestamp",
+					"applyTo" : "entity",
+					"scope" : "publicOnServer",
+					"from" : "$mainModel.VC4Path.entityMethods.createTimestamp",
+					"userDefined" : true
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
 				}
 			]
 		}
