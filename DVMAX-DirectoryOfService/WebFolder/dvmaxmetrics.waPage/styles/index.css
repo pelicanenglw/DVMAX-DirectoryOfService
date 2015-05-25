@@ -3,12 +3,12 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#button2 {
-	z-index: 6;
+#button3 {
+	z-index: 11;
 	width: 92px;
 	height: 22px;
-	top: 62px;
-	left: 1079px;
+	top: 66px;
+	left: 1076px;
 	position: absolute;
 }
 
@@ -33,25 +33,6 @@
 	height: 14px;
 	top: 15px;
 	left: 82px;
-}
-
-#label2 {
-	z-index: 5;
-	width: 75px;
-	height: 14px;
-	top: 68px;
-	left: 18px;
-	position: absolute;
-	min-width: 75px;
-}
-
-#textField2 {
-	z-index: 5;
-	width: 130px;
-	height: 22px;
-	top: 64px;
-	left: 98px;
-	position: absolute;
 }
 
 #label1 {
